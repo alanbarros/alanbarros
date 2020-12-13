@@ -9,7 +9,7 @@ More about me:
 - :cloud: I’m currently working on [@GwCloud](https://www.linkedin.com/company/globalweb-cloud/)
 - :school: I'm graduated in IT management at Anhanguera, Computer Networking and Software Development Technician at SENAI.
 - 😄 Pronouns: he/his
-- :star: Fun fact: my favorite film is The Lord Of the Rings, all of them.
+- :star: Fun fact: my favorite film is The Lord Of The Rings, all of them.
 - 💬  Ask me about anything [here](https://github.com/alanbarros/alanbarros/issues)
 <br/>
 
