@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanpbarros/)](https://www.linkedin.com/in/alanpbarros/)
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alanpbarros/)](https://www.instagram.com/alanpbarros/)
 
-I'm Alan, a Software Engineer from Brazil, I love everything related to tecnology, specially  developing. I like to be learning all the time and I also feel good whenever I can help someone.
+I'm Alan, a Software Engineer from Brazil, I love everything related to tecnology, specially with development. I like to be learning all the time and I also feel good whenever I can help someone.
 
 More about me:
 - :cloud: I’m currently working on [@GwCloud](https://www.linkedin.com/company/globalweb-cloud/)
