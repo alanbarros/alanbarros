@@ -8,7 +8,7 @@ I'm Alan, a Software Engineer from Brazil, I love everything related to tecnolog
 More about me:
 - :cloud: I’m currently working on [@GwCloud](https://www.linkedin.com/company/globalweb-cloud/)
 - :school: I'm graduated in IT management at Anhanguera, Computer Networking and Software Development Technician at SENAI.
-- :star: Fun fact: my favorite film is The Lord Of The Rings.
+- :star: Fun fact: Je t'aime.
 - 💬  Ask me about anything [here](https://github.com/alanbarros/alanbarros/issues)
 <br/>
 
