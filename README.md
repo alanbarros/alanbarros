@@ -6,7 +6,7 @@
 I'm Alan, a Software Engineer from Brazil, I love everything related to tecnology, specially with development. I like to be learning all the time and I also feel good whenever I can help someone.
 
 More about me:
-- :cloud: I’m currently working on [@GwCloud](https://www.linkedin.com/company/globalweb-cloud/)
+- :cloud: I’m currently working on [Itaú Unibanco](https://www.itau.com.br/)
 - :school: I'm graduated in IT management at Anhanguera, Computer Networking and Software Development Technician at SENAI.
 - :star: Fun fact: Je t'aime.
 - 💬  Ask me about anything [here](https://github.com/alanbarros/alanbarros/issues)
