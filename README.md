@@ -10,7 +10,6 @@ More about me:
 - :school: I'm graduated in IT management at Anhanguera, Computer Networking and Software Development Technician at SENAI.
 - :star: Fun fact: I really like to be connected with the nature.
 - 💬  Ask me about anything [here](https://github.com/alanbarros/alanbarros/issues)
-<br/>
 
 ### Oi 👋 🇧🇷
 
